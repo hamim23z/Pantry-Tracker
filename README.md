@@ -1,5 +1,5 @@
 ***
-I know that it says that my site is dangerous for some reason. I can assure you that I am not collecting any data, posting any ads, or phishing anyone. This is a simple project that I made for Headstarter. I have filed a report to Google to review my website and get rid of the dangerous site warning. This can take a few weeks. 
+This is a simple project that I made for Headstarter. 
 ***
 
 
